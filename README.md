@@ -1,1 +1,1 @@
-# digit-recognizer
+# lfsr-breaker
