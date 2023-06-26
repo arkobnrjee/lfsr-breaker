@@ -1,3 +1,5 @@
+// Source: https://introcs.cs.princeton.edu/java/98simulation/Picture.java.html
+
 /*************************************************************************
  *  Compilation:  javac Picture.java
  *  Execution:    java Picture imagename
